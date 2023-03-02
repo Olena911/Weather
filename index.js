@@ -1,1 +1,1 @@
-// JavaScript source code
+alert("");// JavaScript source code
